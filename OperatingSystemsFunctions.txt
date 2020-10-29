@@ -1,0 +1,1 @@
+One function of an operating system is to provide a means for the hardward in a computer to interact with eachother. And operating system interprets the data into readable information the user can read in the form of desktop icons, applications, etc. All the background tasks your operating system provides a means for a user to be able to use.
